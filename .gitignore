@@ -1,23 +1,23 @@
-/vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+fizz_buzz_server//vendor/
+fizz_buzz_server/node_modules/
+fizz_buzz_server/npm-debug.log
+fizz_buzz_server/yarn-error.log
 
 # Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+fizz_buzz_server/bootstrap/compiled.php
+fizz_buzz_server/app/storage/
 
 # Laravel 5 & Lumen specific
-public/storage
-public/hot
+fizz_buzz_server/public/storage
+fizz_buzz_server/public/hot
 
 # Laravel 5 & Lumen specific with changed public path
-public_html/storage
-public_html/hot
+fizz_buzz_server/public_html/storage
+fizz_buzz_server/public_html/hot
 
-storage/*.key
-.env
-Homestead.yaml
-Homestead.json
-/.vagrant
-.phpunit.result.cache
+fizz_buzz_server/storage/*.key
+fizz_buzz_server/.env
+fizz_buzz_server/Homestead.yaml
+fizz_buzz_server/Homestead.json
+fizz_buzz_server/.vagrant
+fizz_buzz_server/.phpunit.result.cache
